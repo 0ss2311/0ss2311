@@ -1,8 +1,8 @@
-### Boas Vindas ao meu perfil 
+### Boas Vindas ao meu perfil 💟
 
 Meu nome é Estela Pacheco 
 
-- Eu estou estudando na Alura
+- Eu estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
@@ -16,5 +16,4 @@ instagram :
 
 @estela_p23
 
-
-![image](https://github.com/0ss2311/0ss2311/assets/171851798/d4503b8a-88a7-4979-ae2b-a615cd601c58)
+![](https://github.com/0ss2311/0ss2311/assets/171851798/2a578a3d-a8e2-4f89-b29b-78a8ac132522)
